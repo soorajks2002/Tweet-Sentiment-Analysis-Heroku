@@ -1,0 +1,1 @@
+web: gunicorn Twitter_Sentiment_Analysis.wsgi --log-file -
